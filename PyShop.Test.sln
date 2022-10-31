@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyShop.Test", "PyShop.Test\PyShop.Test.csproj", "{B98EC286-7E78-4DA1-921F-B67293CCDA63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyShop.Test.Tests", "PyShop.Test.Tests\PyShop.Test.Tests.csproj", "{699C63AD-DB58-4274-BE7C-F43F5A8DA2CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98EC286-7E78-4DA1-921F-B67293CCDA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98EC286-7E78-4DA1-921F-B67293CCDA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98EC286-7E78-4DA1-921F-B67293CCDA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98EC286-7E78-4DA1-921F-B67293CCDA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699C63AD-DB58-4274-BE7C-F43F5A8DA2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699C63AD-DB58-4274-BE7C-F43F5A8DA2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699C63AD-DB58-4274-BE7C-F43F5A8DA2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699C63AD-DB58-4274-BE7C-F43F5A8DA2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
